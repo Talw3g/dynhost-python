@@ -6,7 +6,7 @@ CONSUMERKEY=""
 ZONE=""
 ID=""
 
-NEWIP=$0
+NEWIP=$1
 
 URL="https://eu.api.ovh.com/1.0/domain/zone/$ZONE/dynHost/record/$ID"
 ACTION="PUT"
