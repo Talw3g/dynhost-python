@@ -1,0 +1,8 @@
+[default]
+; general configuration: default endpoint
+endpoint=ovh-eu
+
+[ovh-eu]
+application_key = APPLICATIONKEYWITHOUTQUOTES
+application_secret = APPLICATIONSECRETWITHOUTQUOTES
+consumer_key = CONSUMERKEYWITHOUTQUOTES

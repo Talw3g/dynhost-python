@@ -1,0 +1,6 @@
+.*.swp
+.*.swo
+ovh/
+ovh.conf
+config.py
+__pycache__/
