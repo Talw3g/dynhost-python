@@ -31,5 +31,5 @@ if old_ip != new_ip:
     print("New IP set : ", new_ip)
 
 else:
-    print("No change")
+    print("No change ({:s})".format(new_ip))
 
